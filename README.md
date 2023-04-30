@@ -1,4 +1,4 @@
-# Copilot Clone using Python and OpenAI API
+# Copilot Clone for terminal using Python and OpenAI API
 
 This project is a clone of GitHub's Copilot, a tool that uses AI to assist developers in writing code. It is built using Python and the OpenAI API.
 
